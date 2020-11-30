@@ -1,0 +1,6 @@
+label.requerido:after{
+    content: " *";
+    color: rgba(228, 15, 15, 0.863);
+
+
+}
